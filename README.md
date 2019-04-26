@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
--googleadmob(https://github.com/junyu-tu/junyu-tu.github.io/edit/master/Plugins/GoogleAdmob.md)
+-googleadmob(https://github.com/junyu-tu/junyu-tu.github.io/Plugins/GoogleAdmob.md)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
